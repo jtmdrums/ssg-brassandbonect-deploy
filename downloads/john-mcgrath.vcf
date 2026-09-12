@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John McGrath
+N;CHARSET=UTF-8:McGrath;John;;;
+PHOTO;TYPE=undefined:https://brassandbonect.com/images/xbones/small.webp
+TEL;TYPE=WORK,VOICE:203-558-1445
+TITLE;CHARSET=UTF-8:Owner
+ORG;CHARSET=UTF-8:Brass & Bone
+URL;CHARSET=UTF-8:https://brassandbonect.com
+REV:2026-06-19T12:36:11.819Z
+END:VCARD
